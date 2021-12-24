@@ -1,0 +1,24 @@
+{
+  "name": "Blockchainworld",
+  "version": "0.0.1",
+  "description": "build a course for blockchain",
+  "main": "index.js",
+  "authors": {
+    "name": "wisdom",
+    "email": "wise4rmgod@gmail.com"
+  },
+  "repository": "noneyet/Blockchainworld",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@mr-hope/vuepress-plugin-sitemap": "^1.21.0",
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-theme-yuu": "^3.1.1"
+  }
+}

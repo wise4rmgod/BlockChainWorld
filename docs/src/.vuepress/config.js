@@ -27,7 +27,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */ 
   themeConfig: {
-    repo: '',
+    repo: 'https://github.com/wise4rmgod/BlockChainWorld',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
@@ -52,10 +52,7 @@ module.exports = {
         text: 'Author',
         link: '/author/'
       },
-      {
-        text: 'Github',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
+      
     ],
     sidebar: {
       '/guide/': [
@@ -74,7 +71,7 @@ module.exports = {
           title: 'Blockchain',
           collapsable: true,
           children: [
-            'block_introduction',
+            'block_introduction','block_how_it_works',
           ],
          },
         

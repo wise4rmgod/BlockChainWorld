@@ -2,14 +2,5 @@
 sidebar: auto
 ---
 
-# Config
+# Blockchain video tutorials
 
-## foo
-
-- Type: `string`
-- Default: `/`
-
-## bar
-
-- Type: `string`
-- Default: `/`

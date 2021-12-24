@@ -23,4 +23,8 @@ Solidity can be used to create contracts with the following but not limited to:
 * Financial app
 
 
+Author: [LinkedIn](https://www.linkedin.com/in/wisdom-nwokocha-76212a77/)
+
+
+
 

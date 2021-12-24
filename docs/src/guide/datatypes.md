@@ -33,4 +33,4 @@ A string is used to store text rather than numbers. Also, anything that is insid
 Note: string can contain space and numbers
 ```
  string public hello= "hellow";
- ```
+```

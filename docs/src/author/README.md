@@ -23,4 +23,6 @@ LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/wisdom-nwokocha-76212a7
 
 Twitter Profile: [Twitter](https://twitter.com/joklinztech)
 
+Youtube Channel: [Youtube](https://www.youtube.com/channel/UCGh4vu4cVz72cvgFG2QHnWQ)
+
 

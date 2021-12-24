@@ -94,6 +94,9 @@ module.exports = {
       "@mr-hope/sitemap",
       {
         // your options
+        'sitemap': {
+          hostname: 'https://beginnerblockchain.netlify.app/'
+        },
       },
     ],
        

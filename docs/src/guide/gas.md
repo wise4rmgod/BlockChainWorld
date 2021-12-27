@@ -22,12 +22,3 @@ Note: Transactions with higher gas prices have higher priority to be included in
 You can see gas limit as the maximum amount of fuel your car's fuel tank can hold and you can use for one car trip (with no stops).
 * Lower limitless computations your transaction can process
 * Higher limit-the more computations your transaction can process
-
-### Conversion
-Solidity allows implicit as well as explicit conversion. Solidity compiler allows implicit conversion between two data types provided no implicit conversion is possible and there is no loss of information. For example, uint8 is convertible to uint16 but int8 is convertible to uint256 as int8 can contain negative value not allowed in uint256.
-```
-int8 y = -3;
-uint x = uint(y);
-uint32 a = 0x12345678;
-uint16 b = uint16(a); // b = 0x5678
-```

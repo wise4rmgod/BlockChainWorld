@@ -26,10 +26,10 @@ contract Structex{
 
    Item item;
 
-   function setBook() public {
+   function setName() public {
       item = Item(1, 'Garri', 'this is an example');
    }
-   function getBookId() public view returns (string memory) {
+   function getName() public view returns (string memory) {
       return item.name;
    }
 

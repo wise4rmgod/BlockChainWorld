@@ -3,7 +3,7 @@
 NFT is all over the place on the internet, and I am sure you want to know more about, possibly, how to create and mint your own NFT.
 Non-fungible token (NFT) refers to a cryptographic asset on the blockchain that represents an irreplaceable, interchangeable, and unique digital item( music, an image, virtual items, in-game collectible, artworks). 
 
-Note: it proves authenticity and ownership. 
+> Note: it proves authenticity and ownership. 
 
 NFT uniqueness comes from its Metadata which distinguishes it from others.
 

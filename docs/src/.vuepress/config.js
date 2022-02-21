@@ -74,7 +74,13 @@ module.exports = {
             'block_introduction','block_how_it_works',
           ],
          },
-        
+         {
+          title: 'NFT',
+          collapsable: true,
+          children: [
+            'nft_introduction','nft_mint','nft_create',
+          ],
+         },
       ],
     }
   },

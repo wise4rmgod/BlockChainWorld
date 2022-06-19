@@ -82,6 +82,31 @@ module.exports = {
           ],
          },
       ],
+      '/tutorial/': [
+        {
+          title: 'Beginner',
+          collapsable: true,
+          children: [
+            'helloword'
+            ],
+          
+        },
+       
+         {
+          title: 'Intermidate',
+          collapsable: true,
+          children: [
+            'block_introduction','block_how_it_works',
+          ],
+         },
+         {
+          title: 'Advanced',
+          collapsable: true,
+          children: [
+            'nft_introduction','nft_mint','nft_create',
+          ],
+         },
+      ],
     }
   },
 

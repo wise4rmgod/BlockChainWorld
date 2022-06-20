@@ -1,6 +1,6 @@
 const { description } = require('../../package')
 
-module.exports = {
+module.exports = { 
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -62,7 +62,7 @@ module.exports = {
           children: [
             '', 'installation','smartcontract',
             'helloworld','syntax','comment','datatypes', 'variable','struct','Ether and Wei','constructor',
-            'enums','cont', 'gas','conversion','visibility','interfaces','mapping','array','data Location','import','loops','function','operators','conditional statement',
+            'enums','gas','conversion','visibility','interfaces','mapping','array','data Location','import','loops','function','operators','conditional statement',
           ],
           
         },

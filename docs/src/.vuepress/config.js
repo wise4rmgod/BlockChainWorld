@@ -62,7 +62,7 @@ module.exports = {
           children: [
             '', 'installation','smartcontract',
             'helloworld','syntax','comment','datatypes', 'variable','struct','Ether and Wei','constructor',
-            'enums','gas','conversion','visibility','interfaces','mapping','array','data Location','import','loops','function','operators','conditional statement',
+            'enums','cont', 'gas','conversion','visibility','interfaces','mapping','array','data Location','import','loops','function','operators','conditional statement',
           ],
           
         },
@@ -76,31 +76,6 @@ module.exports = {
          },
          {
           title: 'NFT',
-          collapsable: true,
-          children: [
-            'nft_introduction','nft_mint','nft_create',
-          ],
-         },
-      ],
-      '/tutorial/': [
-        {
-          title: 'Beginner',
-          collapsable: true,
-          children: [
-            'helloword'
-            ],
-          
-        },
-       
-         {
-          title: 'Intermidate',
-          collapsable: true,
-          children: [
-            'block_introduction','block_how_it_works',
-          ],
-         },
-         {
-          title: 'Advanced',
           collapsable: true,
           children: [
             'nft_introduction','nft_mint','nft_create',
